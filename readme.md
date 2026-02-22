@@ -19,3 +19,13 @@ BOLT-Bootcamp-Scaffold/
 ```bash
 git clone https://github.com/GlitchedNexus/BOLT-Bootcamp-Scaffold.git
 ```
+
+2. Navigate to the project directory:
+```bash
+cd BOLT-Bootcamp-Scaffold
+```
+
+3. Start adding your datasets to the `data/` directory, your documentation to the `docs/` directory, and your notebooks to the `notebooks/` directory.
+4. Use the `scripts/` directory to store any custom scripts you create for data processing, analysis, or other tasks.
+5. Generate your plots and visualizations and save them in the `plots/` directory for easy access.
+6. Have fun building your project and feel free to modify the structure as needed to fit your specific requirements!
